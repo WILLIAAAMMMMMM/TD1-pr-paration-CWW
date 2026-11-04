@@ -7,10 +7,10 @@ import sys
 
 def foo():
     """Fonction foo qui ne fait rien et ne renvoie rien."""
-<<<<<<< HEAD
-=======
+ HEAD
+
     print("Hello World")
->>>>>>> 62f0766 (Initial commit)
+
 
 
 if __name__ == "__main__":
