@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # demo-template-td1 (A changer en suivant le tutoriel)
+=======
+# TD1 groupe B CWW (A changer en suivant le tutoriel)
+>>>>>>> 62f0766 (Initial commit)
 
 ## Modèle de dépôt pour la préparation du premier TD (15 minutes)
 
